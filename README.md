@@ -396,11 +396,11 @@ Completion Confirmation
    ↓
 Closure
 
-## 🎥 Project Demo
+🎥 Project Demo
 
-🔗 **Pega Instance URL: https://7jm9ymdp.pegacea.net/prweb
+🔗 Pega Instance URL: https://7jm9ymdp.pegacea.net/prweb
 
-🔗 **Application Preview:https://7jm9ymdp.pegacea.net/prweb/app/vehicle-service-request-and-management/...
+🔗 Application Preview:https://7jm9ymdp.pegacea.net/prweb/app/vehicle-service-request-and-management/...
 
 🚀 Project Status
 
